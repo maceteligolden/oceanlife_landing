@@ -1,9 +1,0 @@
-{
-    "https_only": true,
-    "clean_urls": true,
-    "headers": {
-        "/**": {
-            "Access-Control-Allow-Origin": "*"
-        }
-    }
-}
