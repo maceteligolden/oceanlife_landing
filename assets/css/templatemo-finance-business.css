@@ -1227,7 +1227,7 @@ footer .contact-form button.filled-button:hover {
 /* Single Service */
 
 .single-services {
-	margin-top: 140px;
+	margin: 100px 0px;
 }
 
 #tabs ul {
@@ -1444,7 +1444,7 @@ footer .contact-form button.filled-button:hover {
 		border-bottom: none!important;
 	}
 
-	.more-info {
+	.more-info, .single-services {
 		margin: 50px 0px;
 	}
 }
