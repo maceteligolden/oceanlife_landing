@@ -749,7 +749,7 @@ ul.slick-dots {
 /* More Info */
 
 .more-info {
-	margin-top: 140px;
+	margin: 100px 0px;
 }
 
 .more-info .left-image img {
@@ -1442,5 +1442,9 @@ footer .contact-form button.filled-button:hover {
 	.navbar .navbar-nav .show>.nav-link {
 		color: var(--primary-color)!important;
 		border-bottom: none!important;
+	}
+
+	.more-info {
+		margin: 50px 0px;
 	}
 }
